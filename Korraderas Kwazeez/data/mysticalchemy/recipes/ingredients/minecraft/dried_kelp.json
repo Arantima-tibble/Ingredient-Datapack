@@ -1,0 +1,18 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:dried_kelp",
+	"effects": [
+		{
+			"effect": "minecraft:water_breathing",
+			"strength": 0.5
+		},
+		{
+			"effect": "minecraft:weakness",
+			"strength": 0.4
+		},
+		{
+			"effect": "minecraft:slowness",
+			"strength": 0.3
+		}
+	]
+}

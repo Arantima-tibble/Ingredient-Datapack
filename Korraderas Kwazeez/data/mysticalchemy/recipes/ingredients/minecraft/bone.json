@@ -1,0 +1,18 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:bone",
+	"effects": [
+		{
+			"effect": "minecraft:absorption",
+			"strength": 0.4
+		},
+		{
+			"effect": "minecraft:slowness",
+			"strength": 0.4
+		},
+		{
+			"effect": "minecraft:resistance",
+			"strength": 0.6
+		}
+	]
+}

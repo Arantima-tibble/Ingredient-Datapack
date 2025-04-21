@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "endersdelight:voidpepper",
+	"effects": [
+		{
+			"effect": "minecraft:strength",
+			"strength": 0.6
+		},
+		{
+			"effect": "minecraft:nausea",
+			"strength": 0.7
+		}
+	]
+}

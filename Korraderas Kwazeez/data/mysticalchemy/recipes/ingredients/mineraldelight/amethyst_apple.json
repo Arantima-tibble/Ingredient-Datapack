@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:amethyst_apple",
+    "effects": [
+        {
+            "effect": "minecraft:health_boost",
+            "strength": 0.7
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.8
+        }
+    ]
+}

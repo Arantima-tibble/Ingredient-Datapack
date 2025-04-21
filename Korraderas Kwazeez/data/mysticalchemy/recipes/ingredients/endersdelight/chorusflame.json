@@ -1,0 +1,22 @@
+{
+  "type": "mysticalchemy:potion_ingredient",
+  "item": "endersdelight:chorusflame",
+  "effects": [
+    {
+      "effect": "minecraft:resistance",
+      "strength": 0.8
+    },
+    {
+      "effect": "minecraft:wither",
+      "strength": 0.9
+    },
+    {
+      "effect": "minecraft:nausea",
+      "strength": 0.5
+    },
+    {
+      "effect": "minecraft:blindness",
+      "strength": 0.6
+    }
+  ]
+}

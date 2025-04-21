@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:crushed_emerald",
+    "effects": [
+        {
+            "effect": "minecraft:hero_of_the_village",
+            "strength": 0.8
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.3
+        },
+        {
+            "effect": "minecraft:speed",
+            "strength": 0.6
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:unrefined_glass",
+    "effects": [
+        {
+            "effect": "minecraft:invisibility",
+            "strength": 0.7
+        },
+        {
+            "effect": "minecraft:blindness",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 0.4
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": 0.2
+        }
+    ]
+}

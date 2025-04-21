@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:geode_carrot",
+    "effects": [
+        {
+            "effect": "minecraft:luck",
+            "strength": 0.6
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.4
+        },
+        {
+            "effect": "minecraft:speed",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:weakness",
+            "strength": 0.3
+        }
+    ]
+}

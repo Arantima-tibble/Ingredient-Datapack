@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:feather",
+	"effects": [
+		{
+			"effect": "minecraft:slow_falling",
+			"strength": 0.7
+		},
+		{
+			"effect": "minecraft:hunger",
+			"strength": 0.4
+		}
+	]
+}

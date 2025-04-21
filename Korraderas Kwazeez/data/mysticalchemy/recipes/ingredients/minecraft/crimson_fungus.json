@@ -1,0 +1,18 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:crimson_fungus",
+	"effects": [
+		{
+			"effect": "minecraft:fire_resistance",
+			"strength": 0.8
+		},
+		{
+			"effect": "minecraft:nausea",
+			"strength": 0.3
+		},
+		{
+			"effect": "minecraft:strength",
+			"strength": 0.4
+		}
+	]
+}

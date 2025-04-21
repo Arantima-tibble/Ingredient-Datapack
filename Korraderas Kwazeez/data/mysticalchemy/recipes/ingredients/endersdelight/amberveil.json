@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "endersdelight:amberveil",
+	"effects": [
+		{
+			"effect": "minecraft:resistance",
+			"strength": 0.9
+		},
+		{
+			"effect": "minecraft:hunger",
+			"strength": 0.4
+		}
+	]
+}

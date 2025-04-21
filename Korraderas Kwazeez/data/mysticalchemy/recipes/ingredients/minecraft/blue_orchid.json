@@ -1,0 +1,15 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:blue_orchid",
+	"effects": [
+		{
+			"effect": "minecraft:absorption",
+			"strength": 0.5
+		},
+		{
+			"effect": "minecraft:instant_health",
+			"strength": 0.6
+		}
+	
+	]
+}

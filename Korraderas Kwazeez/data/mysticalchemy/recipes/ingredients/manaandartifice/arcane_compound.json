@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:arcane_compound",
+    "effects": [
+        {
+            "effect": "mna:instant_mana",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:strength",
+            "strength": 0.6
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": 0.2
+        }
+    ]
+}

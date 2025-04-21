@@ -1,0 +1,18 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:oxeye_daisy",
+	"effects": [
+		{
+			"effect": "minecraft:instant_health",
+			"strength": 0.5
+		},
+		{
+			"effect": "minecraft:weakness",
+			"strength": 0.3
+		},
+		{
+			"effect": "minecraft:health_boost",
+			"strength": 0.4
+		}
+	]
+}

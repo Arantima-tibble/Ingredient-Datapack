@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:ghast_tear",
+	"effects": [
+		{
+			"effect": "minecraft:fire_resistance",
+			"strength": 0.5
+		},
+		{
+			"effect": "minecraft:levitation",
+			"strength": 0.5
+		}
+	]
+}

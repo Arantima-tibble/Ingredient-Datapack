@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:amethyst_carrot",
+    "effects": [
+        {
+            "effect": "minecraft:night_vision",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": 0.3
+        },
+        {
+            "effect": "minecraft:speed",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:jump_boost",
+            "strength": 0.7
+        }
+    ]
+}

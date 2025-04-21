@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:warped_fungus",
+	"effects": [
+		{
+			"effect": "minecraft:weakness",
+			"strength": 1
+		},
+		{
+			"effect": "minecraft:regeneration",
+			"strength": 1
+		}
+	]
+}

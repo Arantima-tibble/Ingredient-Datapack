@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "occultism:otherworld_ashes",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 0.7
+        },
+        {
+            "effect": "minecraft:weakness",
+            "strength": 0.5
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.4
+        }
+    ]
+}

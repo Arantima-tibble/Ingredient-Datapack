@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:cobweb",
+	"effects": [
+		{
+			"effect": "minecraft:slowness",
+			"strength": 0.6
+		},
+		{
+			"effect": "minecraft:blindness",
+			"strength": 0.50
+		}
+	]
+}

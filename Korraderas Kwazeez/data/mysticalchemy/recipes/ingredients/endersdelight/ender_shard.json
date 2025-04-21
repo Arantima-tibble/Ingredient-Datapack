@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "endersdelight:ender_shard",
+	"effects": [
+		{
+			"effect": "minecraft:regeneration",
+			"strength": 0.7
+		},
+		{
+			"effect": "minecraft:wither",
+			"strength": 0.5
+		}
+	]
+}

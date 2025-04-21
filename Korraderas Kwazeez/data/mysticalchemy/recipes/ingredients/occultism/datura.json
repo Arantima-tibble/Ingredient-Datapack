@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "occultism:datura",
+    "effects": [
+        {
+            "effect": "minecraft:nausea",
+            "strength": 0.8
+        },
+        {
+            "effect": "minecraft:strength",
+            "strength": 0.6
+        },
+        {
+            "effect": "minecraft:jump_boost",
+            "strength": 0.7
+        }
+    ]
+}

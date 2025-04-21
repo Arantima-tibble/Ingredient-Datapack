@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mineraldelight:golden_powder",
+    "effects": [
+        {
+            "effect": "minecraft:saturation",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 0.2
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 0.7
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.4
+        }
+    ]
+}

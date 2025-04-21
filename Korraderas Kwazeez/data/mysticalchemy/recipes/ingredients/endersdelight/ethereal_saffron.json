@@ -1,0 +1,14 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "endersdelight:ethereal_saffron",
+	"effects": [
+		{
+			"effect": "minecraft:invisibility",
+			"strength": 0.8
+		},
+		{
+			"effect": "minecraft:levitation",
+			"strength": 0.3
+		}
+	]
+}

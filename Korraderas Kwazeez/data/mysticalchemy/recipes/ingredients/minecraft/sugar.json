@@ -1,0 +1,22 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:sugar",
+	"effects": [
+		{
+			"effect": "minecraft:haste",
+			"strength": 0.5
+		},
+		{
+			"effect": "minecraft:speed",
+			"strength": 0.7
+		},
+		{
+			"effect": "minecraft:nausea",
+			"strength": 0.4
+		},
+		{
+			"effect": "minecraft:hunger",
+			"strength": 0.3
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"type": "mysticalchemy:potion_ingredient",
+	"item": "minecraft:glowstone_dust",
+	"effects": [
+		{
+			"effect": "minecraft:night_vision",
+			"strength": 1
+		},
+	]
+}
