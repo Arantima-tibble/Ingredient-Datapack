@@ -1,18 +1,14 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:rabbit_foot",
-	"effects": [
-		{
-			"effect": "minecraft:speed",
-			"strength": 0.7
-		},
-		{
-			"effect": "minecraft:hunger",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:haste",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:rabbit_foot",
+    "effects": [
+        {
+            "effect": "minecraft:health_boost",
+            "strength": 1.46
+        },
+        {
+            "effect": "minecraft:strength",
+            "strength": -1.3
+        }
+    ]
 }

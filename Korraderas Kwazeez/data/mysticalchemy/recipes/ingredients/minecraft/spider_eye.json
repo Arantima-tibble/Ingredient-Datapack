@@ -1,22 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:spider_eye",
-	"effects": [
-		{
-			"effect": "minecraft:instant_damage",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:poison",
-			"strength": 0.1
-		},
-		{
-			"effect": "minecraft:weakness",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:night_vision",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:spider_eye",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.25
+        },
+        {
+            "effect": "minecraft:health_boost",
+            "strength": -0.8
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": 0.75
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -1.22
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 1.12
+        }
+    ]
 }

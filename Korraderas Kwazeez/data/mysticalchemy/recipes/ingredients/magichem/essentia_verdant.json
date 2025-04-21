@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_verdant",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.78
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -1.11
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 1.45
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:desert_nova",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.83
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -0.72
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 0.7
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.44
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 1.04
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -0.98
+        }
+    ]
+}

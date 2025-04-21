@@ -1,10 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:lily_pad",
-	"effects": [
-		{
-			"effect": "minecraft:jump_boost",
-			"strength": 1
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:lily_pad",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.95
+        },
+        {
+            "effect": "minecraft:conduit_power",
+            "strength": -0.9
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 1.32
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -0.85
+        },
+        {
+            "effect": "minecraft:water_breathing",
+            "strength": 1.36
+        }
+    ]
 }

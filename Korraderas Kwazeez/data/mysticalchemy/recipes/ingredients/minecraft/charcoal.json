@@ -1,14 +1,14 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:charcoal",
-	"effects": [
-		{
-			"effect": "minecraft:poison",
-			"strength": -0.5
-		},
-		{
-			"effect": "minecraft:nausea",
-			"strength": -0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:charcoal",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 1.02
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": -1.0
+        }
+    ]
 }

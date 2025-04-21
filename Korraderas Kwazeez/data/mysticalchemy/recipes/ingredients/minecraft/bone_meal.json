@@ -1,18 +1,18 @@
 {
-  "type": "mysticalchemy:potion_ingredient",
-  "item": "minecraft:bone_meal",
-  "effects": [
-    {
-      "effect": "minecraft:haste",
-      "strength": 0.6
-    },
-    {
-      "effect": "minecraft:absorption",
-      "strength": 0.5
-    },
-    {
-      "effect": "minecraft:slowness",
-      "strength": 0.4
-    }
-  ]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:bone_meal",
+    "effects": [
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": 1.37
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -0.7
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": 1.3
+        }
+    ]
 }

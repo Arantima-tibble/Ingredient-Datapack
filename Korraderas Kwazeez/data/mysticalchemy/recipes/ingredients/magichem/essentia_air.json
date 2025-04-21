@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_air",
+    "effects": [
+        {
+            "effect": "minecraft:jump_boost",
+            "strength": 1.49
+        },
+        {
+            "effect": "minecraft:levitation",
+            "strength": -1.4
+        },
+        {
+            "effect": "minecraft:speed",
+            "strength": 1.41
+        }
+    ]
+}

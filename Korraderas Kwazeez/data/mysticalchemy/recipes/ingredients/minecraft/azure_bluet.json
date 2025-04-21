@@ -1,18 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:azure_bluet",
-	"effects": [
-		{
-			"effect": "minecraft:slow_falling",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:weakness",
-			"strength": 0.3
-		},
-		{
-			"effect": "minecraft:resistance",
-			"strength": 0.3
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:azure_bluet",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.31
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -0.64
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": 1.26
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.91
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 0.86
+        }
+    ]
 }

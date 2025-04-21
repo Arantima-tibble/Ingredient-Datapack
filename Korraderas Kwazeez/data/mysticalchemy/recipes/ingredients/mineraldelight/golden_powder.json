@@ -3,20 +3,20 @@
     "item": "mineraldelight:golden_powder",
     "effects": [
         {
-            "effect": "minecraft:saturation",
-            "strength": 0.9
+            "effect": "minecraft:absorption",
+            "strength": 0.92
         },
         {
-            "effect": "minecraft:wither",
-            "strength": 0.2
+            "effect": "minecraft:haste",
+            "strength": -1.27
         },
         {
-            "effect": "minecraft:regeneration",
-            "strength": 0.7
+            "effect": "minecraft:luck",
+            "strength": 0.85
         },
         {
-            "effect": "minecraft:glowing",
-            "strength": 0.4
+            "effect": "minecraft:resistance",
+            "strength": -0.96
         }
     ]
 }

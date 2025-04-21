@@ -1,18 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:cornflower",
-	"effects": [
-		{
-			"effect": "minecraft:speed",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:weakness",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.4
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:cornflower",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.89
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.82
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 1.0
+        }
+    ]
 }

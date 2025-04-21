@@ -3,16 +3,12 @@
     "item": "mineraldelight:amethyst_powder",
     "effects": [
         {
+            "effect": "minecraft:haste",
+            "strength": 1.02
+        },
+        {
             "effect": "minecraft:resistance",
-            "strength": 0.8
-        },
-        {
-            "effect": "minecraft:blindness",
-            "strength": 0.3
-        },
-        {
-            "effect": "minecraft:glowing",
-            "strength": 0.5
+            "strength": -0.76
         }
     ]
 }

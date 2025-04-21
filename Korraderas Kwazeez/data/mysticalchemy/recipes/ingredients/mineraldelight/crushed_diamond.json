@@ -3,16 +3,12 @@
     "item": "mineraldelight:crushed_diamond",
     "effects": [
         {
-            "effect": "minecraft:strength",
-            "strength": 1.0
-        },
-        {
-            "effect": "minecraft:unluck",
-            "strength": 0.2
-        },
-        {
             "effect": "minecraft:haste",
-            "strength": 0.7
+            "strength": 1.13
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -1.21
         }
     ]
 }

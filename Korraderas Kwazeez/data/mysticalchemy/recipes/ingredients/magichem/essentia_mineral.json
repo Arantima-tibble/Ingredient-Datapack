@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_mineral",
+    "effects": [
+        {
+            "effect": "minecraft:haste",
+            "strength": 0.89
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -0.87
+        }
+    ]
+}

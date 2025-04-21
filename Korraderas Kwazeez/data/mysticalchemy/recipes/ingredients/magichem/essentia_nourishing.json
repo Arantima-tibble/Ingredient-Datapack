@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_nourishing",
+    "effects": [
+        {
+            "effect": "minecraft:instant_health",
+            "strength": 1.2
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.39
+        }
+    ]
+}

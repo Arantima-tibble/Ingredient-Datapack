@@ -1,0 +1,26 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:wakebloom",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.42
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -1.23
+        },
+        {
+            "effect": "minecraft:luck",
+            "strength": 1.13
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": -1.11
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": 1.11
+        }
+    ]
+}

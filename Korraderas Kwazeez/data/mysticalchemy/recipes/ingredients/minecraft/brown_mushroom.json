@@ -1,18 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:brown_mushroom",
-	"effects": [
-		{
-			"effect": "minecraft:resistance",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:hunger",
-			"strength": 0.6
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:brown_mushroom",
+    "effects": [
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.8
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": -0.78
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 1.23
+        }
+    ]
 }

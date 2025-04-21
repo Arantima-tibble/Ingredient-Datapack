@@ -3,20 +3,20 @@
     "item": "mineraldelight:amethyst_carrot",
     "effects": [
         {
-            "effect": "minecraft:night_vision",
-            "strength": 0.9
+            "effect": "minecraft:haste",
+            "strength": 0.76
         },
         {
-            "effect": "minecraft:nausea",
-            "strength": 0.3
+            "effect": "minecraft:instant_health",
+            "strength": -1.03
         },
         {
-            "effect": "minecraft:speed",
-            "strength": 0.5
+            "effect": "minecraft:resistance",
+            "strength": 1.19
         },
         {
-            "effect": "minecraft:jump_boost",
-            "strength": 0.7
+            "effect": "minecraft:saturation",
+            "strength": -0.95
         }
     ]
 }

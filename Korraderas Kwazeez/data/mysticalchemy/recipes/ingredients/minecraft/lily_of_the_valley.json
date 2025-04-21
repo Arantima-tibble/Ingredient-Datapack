@@ -1,18 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:lily_of_the_valley",
-	"effects": [
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:slowness",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:absorption",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:lily_of_the_valley",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.04
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -1.25
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 1.04
+        }
+    ]
 }

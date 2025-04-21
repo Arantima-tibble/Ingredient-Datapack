@@ -1,0 +1,30 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:purified_vinteum_dust",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 1.22
+        },
+        {
+            "effect": "minecraft:instant_health",
+            "strength": -1.36
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": 1.33
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.65
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 0.68
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -1.28
+        }
+    ]
+}

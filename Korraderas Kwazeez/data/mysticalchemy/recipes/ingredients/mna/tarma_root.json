@@ -1,0 +1,30 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:tarma_root",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 1.1
+        },
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": -1.13
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.14
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": -0.94
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 1.3
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -1.16
+        }
+    ]
+}

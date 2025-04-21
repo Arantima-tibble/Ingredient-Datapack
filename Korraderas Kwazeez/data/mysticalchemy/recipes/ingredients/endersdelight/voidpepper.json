@@ -1,14 +1,22 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "endersdelight:voidpepper",
-	"effects": [
-		{
-			"effect": "minecraft:strength",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:nausea",
-			"strength": 0.7
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "endersdelight:voidpepper",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 0.65
+        },
+        {
+            "effect": "minecraft:invisibility",
+            "strength": -0.64
+        },
+        {
+            "effect": "minecraft:levitation",
+            "strength": 0.69
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": -0.81
+        }
+    ]
 }

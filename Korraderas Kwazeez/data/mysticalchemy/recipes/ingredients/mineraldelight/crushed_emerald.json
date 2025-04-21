@@ -3,16 +3,20 @@
     "item": "mineraldelight:crushed_emerald",
     "effects": [
         {
-            "effect": "minecraft:hero_of_the_village",
-            "strength": 0.8
+            "effect": "minecraft:absorption",
+            "strength": 0.82
         },
         {
-            "effect": "minecraft:hunger",
-            "strength": 0.3
+            "effect": "minecraft:haste",
+            "strength": -0.66
         },
         {
-            "effect": "minecraft:speed",
-            "strength": 0.6
+            "effect": "minecraft:luck",
+            "strength": 0.85
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -1.09
         }
     ]
 }

@@ -1,10 +1,22 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:sweet_berries",
-	"effects": [
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:sweet_berries",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.42
+        },
+        {
+            "effect": "minecraft:instant_health",
+            "strength": -1.16
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 1.45
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.32
+        }
+    ]
 }

@@ -3,16 +3,40 @@
     "item": "occultism:datura",
     "effects": [
         {
+            "effect": "minecraft:absorption",
+            "strength": 0.62
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -1.24
+        },
+        {
             "effect": "minecraft:nausea",
-            "strength": 0.8
+            "strength": 0.96
         },
         {
-            "effect": "minecraft:strength",
-            "strength": 0.6
+            "effect": "minecraft:night_vision",
+            "strength": -1.28
         },
         {
-            "effect": "minecraft:jump_boost",
-            "strength": 0.7
+            "effect": "minecraft:regeneration",
+            "strength": 1.2
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.17
+        },
+        {
+            "effect": "minecraft:unluck",
+            "strength": 1.1
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": -1.19
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": 1.5
         }
     ]
 }

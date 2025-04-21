@@ -1,14 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:poppy",
-	"effects": [
-		{
-			"effect": "minecraft:resistance",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:nausea",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:poppy",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.02
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.83
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 0.65
+        }
+    ]
 }

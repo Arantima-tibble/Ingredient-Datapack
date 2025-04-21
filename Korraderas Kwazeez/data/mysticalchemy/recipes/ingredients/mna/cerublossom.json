@@ -1,0 +1,26 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:cerublossom",
+    "effects": [
+        {
+            "effect": "minecraft:conduit_power",
+            "strength": 0.61
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -1.24
+        },
+        {
+            "effect": "minecraft:water_breathing",
+            "strength": 1.03
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": -1.19
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": 1.47
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_nigredo",
+    "effects": [
+        {
+            "effect": "minecraft:blindness",
+            "strength": 1.27
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": -1.34
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": 1.11
+        }
+    ]
+}

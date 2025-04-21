@@ -3,20 +3,32 @@
     "item": "mineraldelight:geode_carrot",
     "effects": [
         {
-            "effect": "minecraft:luck",
-            "strength": 0.6
+            "effect": "minecraft:haste",
+            "strength": 1.28
         },
         {
             "effect": "minecraft:hunger",
-            "strength": 0.4
+            "strength": -0.99
         },
         {
-            "effect": "minecraft:speed",
-            "strength": 0.5
+            "effect": "minecraft:instant_health",
+            "strength": 1.2
         },
         {
-            "effect": "minecraft:weakness",
-            "strength": 0.3
+            "effect": "minecraft:poison",
+            "strength": -1.2
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.04
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.21
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 1.04
         }
     ]
 }

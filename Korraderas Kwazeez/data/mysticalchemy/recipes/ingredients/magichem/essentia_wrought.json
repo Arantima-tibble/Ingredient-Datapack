@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_wrought",
+    "effects": [
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.1
+        },
+        {
+            "effect": "minecraft:strength",
+            "strength": -1.33
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_citrinitas",
+    "effects": [
+        {
+            "effect": "minecraft:conduit_power",
+            "strength": 0.87
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": -1.31
+        }
+    ]
+}

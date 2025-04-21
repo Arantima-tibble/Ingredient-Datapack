@@ -1,18 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:beetroot",
-	"effects": [
-		{
-			"effect": "minecraft:speed",
-			"strength": 0.6
-		},
-	    {
-			"effect": "minecraft:hunger",
-			"strength": 0.4
-		},
-	    {
-			"effect": "minecraft:instant_health",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:beetroot",
+    "effects": [
+        {
+            "effect": "minecraft:instant_health",
+            "strength": 1.2
+        },
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": -0.94
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 0.68
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -0.64
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": 0.81
+        }
+    ]
 }

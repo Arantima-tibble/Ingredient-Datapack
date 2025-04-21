@@ -3,16 +3,28 @@
     "item": "occultism:datura_seeds",
     "effects": [
         {
-            "effect": "minecraft:poison",
-            "strength": 0.7
+            "effect": "minecraft:glowing",
+            "strength": 1.06
         },
         {
-            "effect": "minecraft:slowness",
-            "strength": 0.4
+            "effect": "minecraft:nausea",
+            "strength": -1.33
         },
         {
-            "effect": "minecraft:blindness",
-            "strength": 0.5
+            "effect": "minecraft:night_vision",
+            "strength": 0.82
+        },
+        {
+            "effect": "minecraft:unluck",
+            "strength": -1.13
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 1.1
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -1.28
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:animus_dust",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.88
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": -1.29
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": 1.25
+        }
+    ]
+}

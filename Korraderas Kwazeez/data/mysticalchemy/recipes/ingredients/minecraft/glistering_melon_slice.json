@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:glistering_melon_slice",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:instant_health",
+            "strength": -1.08
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 0.66
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -0.75
+        }
+    ]
+}

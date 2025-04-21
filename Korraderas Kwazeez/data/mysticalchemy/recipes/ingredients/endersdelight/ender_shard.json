@@ -1,14 +1,22 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "endersdelight:ender_shard",
-	"effects": [
-		{
-			"effect": "minecraft:regeneration",
-			"strength": 0.7
-		},
-		{
-			"effect": "minecraft:wither",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "endersdelight:ender_shard",
+    "effects": [
+        {
+            "effect": "minecraft:haste",
+            "strength": 0.97
+        },
+        {
+            "effect": "minecraft:invisibility",
+            "strength": -0.88
+        },
+        {
+            "effect": "minecraft:levitation",
+            "strength": 1.02
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -1.47
+        }
+    ]
 }

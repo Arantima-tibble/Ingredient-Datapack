@@ -1,10 +1,14 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:glowstone_dust",
-	"effects": [
-		{
-			"effect": "minecraft:night_vision",
-			"strength": 1
-		},
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:glowstone_dust",
+    "effects": [
+        {
+            "effect": "minecraft:haste",
+            "strength": 0.95
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -0.81
+        }
+    ]
 }

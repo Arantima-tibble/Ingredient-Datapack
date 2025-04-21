@@ -1,14 +1,30 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:golden_carrot",
-	"effects": [
-		{
-			"effect": "minecraft:saturation",
-			"strength": 1
-		},
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:golden_carrot",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.45
+        },
+        {
+            "effect": "minecraft:health_boost",
+            "strength": -1.48
+        },
+        {
+            "effect": "minecraft:instant_damage",
+            "strength": 1.39
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": -0.98
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 1.03
+        },
+        {
+            "effect": "minecraft:unluck",
+            "strength": -0.65
+        }
+    ]
 }

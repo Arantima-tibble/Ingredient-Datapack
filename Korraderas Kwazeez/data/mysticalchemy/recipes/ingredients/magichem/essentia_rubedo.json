@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_rubedo",
+    "effects": [
+        {
+            "effect": "minecraft:instant_health",
+            "strength": 1.31
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.95
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:kelp",
-	"effects": [
-		{
-			"effect": "minecraft:water_breathing",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:fire_resistance",
-			"strength": 0.1
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:kelp",
+    "effects": [
+        {
+            "effect": "minecraft:conduit_power",
+            "strength": 1.32
+        },
+        {
+            "effect": "minecraft:water_breathing",
+            "strength": -0.69
+        }
+    ]
 }

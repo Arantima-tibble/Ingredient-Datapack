@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_albedo",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.97
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": -0.75
+        }
+    ]
+}

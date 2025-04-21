@@ -1,14 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:feather",
-	"effects": [
-		{
-			"effect": "minecraft:slow_falling",
-			"strength": 0.7
-		},
-		{
-			"effect": "minecraft:hunger",
-			"strength": 0.4
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:feather",
+    "effects": [
+        {
+            "effect": "minecraft:jump_boost",
+            "strength": 1.04
+        },
+        {
+            "effect": "minecraft:levitation",
+            "strength": -1.28
+        },
+        {
+            "effect": "minecraft:speed",
+            "strength": 1.0
+        }
+    ]
 }

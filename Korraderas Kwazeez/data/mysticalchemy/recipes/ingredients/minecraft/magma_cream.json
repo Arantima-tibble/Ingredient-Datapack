@@ -1,18 +1,14 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:magma_cream",
-	"effects": [
-		{
-			"effect": "minecraft:fire_resistance",
-			"strength": 0.8
-		},
-		{
-			"effect": "minecraft:haste",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:strength",
-			"strength": 0.4
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:magma_cream",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 1.43
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": -0.62
+        }
+    ]
 }

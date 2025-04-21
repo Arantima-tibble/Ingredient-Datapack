@@ -3,20 +3,12 @@
     "item": "mineraldelight:amethyst_crycicle",
     "effects": [
         {
-            "effect": "minecraft:slow_falling",
-            "strength": 0.9
+            "effect": "minecraft:haste",
+            "strength": 1.43
         },
         {
-            "effect": "minecraft:mining_fatigue",
-            "strength": 0.4
-        },
-        {
-            "effect": "minecraft:frost_walker",
-            "strength": 0.6
-        },
-        {
-            "effect": "minecraft:poison",
-            "strength": 0.3
+            "effect": "minecraft:resistance",
+            "strength": -0.8
         }
     ]
 }

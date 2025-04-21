@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_fleshy",
+    "effects": [
+        {
+            "effect": "minecraft:health_boost",
+            "strength": 1.43
+        },
+        {
+            "effect": "minecraft:strength",
+            "strength": -0.94
+        }
+    ]
+}

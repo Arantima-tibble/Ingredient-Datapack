@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_conceptual",
+    "effects": [
+        {
+            "effect": "minecraft:nausea",
+            "strength": 1.22
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": -0.65
+        },
+        {
+            "effect": "minecraft:unluck",
+            "strength": 1.26
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:arcane_ash",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.88
+        },
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": -0.83
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.46
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": -0.88
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 0.77
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -0.84
+        }
+    ]
+}

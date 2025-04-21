@@ -1,10 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:poisonous_potato",
-	"effects": [
-		{
-			"effect": "minecraft:poison",
-			"strength": 0.8
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:poisonous_potato",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.46
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -1.12
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": 1.35
+        }
+    ]
 }

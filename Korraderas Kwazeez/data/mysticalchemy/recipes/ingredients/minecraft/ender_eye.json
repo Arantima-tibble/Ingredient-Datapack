@@ -1,0 +1,22 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:ender_eye",
+    "effects": [
+        {
+            "effect": "minecraft:haste",
+            "strength": 1.28
+        },
+        {
+            "effect": "minecraft:invisibility",
+            "strength": -0.74
+        },
+        {
+            "effect": "minecraft:levitation",
+            "strength": 0.85
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -0.8
+        }
+    ]
+}

@@ -1,18 +1,22 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:allium",
-	"effects": [
-		{
-			"effect": "minecraft:instant_health",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:weakness",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:speed",
-			"strength": 0.4
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:allium",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 0.89
+        },
+        {
+            "effect": "minecraft:instant_health",
+            "strength": -1.1
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": 1.21
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -1.04
+        }
+    ]
 }

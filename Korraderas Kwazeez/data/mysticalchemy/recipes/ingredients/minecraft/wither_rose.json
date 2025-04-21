@@ -1,14 +1,38 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:wither_rose",
-	"effects": [
-		{
-			"effect": "minecraft:wither",
-			"strength": 1
-		},
-		{
-			"effect": "minecraft:instant_damage",
-			"strength": 1
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:wither_rose",
+    "effects": [
+        {
+            "effect": "minecraft:blindness",
+            "strength": 1.11
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -1.46
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": 1.08
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": -0.9
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": 0.66
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": -0.92
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 0.61
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -1.12
+        }
+    ]
 }

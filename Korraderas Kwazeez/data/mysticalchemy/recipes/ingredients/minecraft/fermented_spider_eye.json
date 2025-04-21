@@ -1,18 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:fermented_spider_eye",
-	"effects": [
-		{
-			"effect": "minecraft:poison",
-			"strength": 0.8
-		},
-		{
-			"effect": "minecraft:strength",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:instant_damage",
-			"strength": 0.8
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:fermented_spider_eye",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.24
+        },
+        {
+            "effect": "minecraft:health_boost",
+            "strength": -1.29
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.9
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.7
+        },
+        {
+            "effect": "minecraft:weakness",
+            "strength": 0.67
+        }
+    ]
 }

@@ -1,18 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:blaze_rod",
-	"effects": [
-		{
-			"effect": "minecraft:fire_resistance",
-			"strength": 0.8
-		},
-		{
-			"effect": "minecraft:instant_damage",
-			"strength": 0.6
-		},
-		{
-			"effect": "minecraft:resistance",
-			"strength": 0.6
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:blaze_rod",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 1.15
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -0.81
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 1.01
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": -0.7
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": 1.12
+        }
+    ]
 }

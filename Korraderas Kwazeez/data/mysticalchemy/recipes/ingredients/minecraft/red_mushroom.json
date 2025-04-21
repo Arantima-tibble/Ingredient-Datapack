@@ -1,14 +1,18 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:red_mushroom",
-	"effects": [
-		{
-			"effect": "minecraft:resistance",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:weakness",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:red_mushroom",
+    "effects": [
+        {
+            "effect": "minecraft:hunger",
+            "strength": 0.66
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": -0.64
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 0.64
+        }
+    ]
 }

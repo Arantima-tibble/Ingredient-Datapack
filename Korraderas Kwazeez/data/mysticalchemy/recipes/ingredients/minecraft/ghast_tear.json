@@ -1,14 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:ghast_tear",
-	"effects": [
-		{
-			"effect": "minecraft:fire_resistance",
-			"strength": 0.5
-		},
-		{
-			"effect": "minecraft:levitation",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:ghast_tear",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.74
+        },
+        {
+            "effect": "minecraft:hunger",
+            "strength": -1.16
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": 0.74
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": -1.31
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 0.97
+        }
+    ]
 }

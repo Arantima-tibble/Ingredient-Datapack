@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_fire",
+    "effects": [
+        {
+            "effect": "minecraft:fire_resistance",
+            "strength": 0.77
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": -1.46
+        }
+    ]
+}

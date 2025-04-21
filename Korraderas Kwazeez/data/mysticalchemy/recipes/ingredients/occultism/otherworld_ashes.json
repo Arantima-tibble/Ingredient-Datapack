@@ -3,20 +3,16 @@
     "item": "occultism:otherworld_ashes",
     "effects": [
         {
-            "effect": "minecraft:fire_resistance",
-            "strength": 0.9
+            "effect": "minecraft:mining_fatigue",
+            "strength": 1.03
         },
         {
-            "effect": "minecraft:regeneration",
-            "strength": 0.7
+            "effect": "minecraft:resistance",
+            "strength": -0.86
         },
         {
-            "effect": "minecraft:weakness",
-            "strength": 0.5
-        },
-        {
-            "effect": "minecraft:hunger",
-            "strength": 0.4
+            "effect": "minecraft:slowness",
+            "strength": 1.0
         }
     ]
 }

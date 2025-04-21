@@ -1,0 +1,14 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_precious",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.2
+        },
+        {
+            "effect": "minecraft:luck",
+            "strength": -1.16
+        }
+    ]
+}

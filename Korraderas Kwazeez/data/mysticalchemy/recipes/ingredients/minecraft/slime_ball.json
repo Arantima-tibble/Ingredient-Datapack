@@ -1,0 +1,38 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:slime_ball",
+    "effects": [
+        {
+            "effect": "minecraft:conduit_power",
+            "strength": 1.03
+        },
+        {
+            "effect": "minecraft:glowing",
+            "strength": -1.4
+        },
+        {
+            "effect": "minecraft:nausea",
+            "strength": 1.45
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "strength": -1.08
+        },
+        {
+            "effect": "minecraft:unluck",
+            "strength": 0.83
+        },
+        {
+            "effect": "minecraft:water_breathing",
+            "strength": -1.17
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 1.15
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -0.63
+        }
+    ]
+}

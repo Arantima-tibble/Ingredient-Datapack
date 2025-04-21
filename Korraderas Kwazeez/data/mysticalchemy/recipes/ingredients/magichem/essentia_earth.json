@@ -1,0 +1,18 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "magichem:essentia_earth",
+    "effects": [
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": 0.63
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": -0.96
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": 0.91
+        }
+    ]
+}

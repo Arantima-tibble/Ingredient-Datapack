@@ -1,18 +1,26 @@
 {
-  "type": "mysticalchemy:potion_ingredient",
-  "item": "minecraft:wheat",
-  "effects": [
-    {
-      "effect": "minecraft:instant_health",
-      "strength": 0.5
-    },
-    {
-      "effect": "minecraft:weakness",
-      "strength": 0.4
-    },
-    {
-      "effect": "minecraft:nausea",
-      "strength": 0.3
-    }
-  ]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:wheat",
+    "effects": [
+        {
+            "effect": "minecraft:instant_health",
+            "strength": 1.23
+        },
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": -1.23
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.22
+        },
+        {
+            "effect": "minecraft:saturation",
+            "strength": -0.78
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": 1.32
+        }
+    ]
 }

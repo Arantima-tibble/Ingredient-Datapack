@@ -1,0 +1,30 @@
+{
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "mna:bone_ash",
+    "effects": [
+        {
+            "effect": "minecraft:glowing",
+            "strength": 0.65
+        },
+        {
+            "effect": "minecraft:mining_fatigue",
+            "strength": -1.24
+        },
+        {
+            "effect": "minecraft:resistance",
+            "strength": 1.45
+        },
+        {
+            "effect": "minecraft:slowness",
+            "strength": -0.93
+        },
+        {
+            "effect": "mna:instant_mana",
+            "strength": 1.28
+        },
+        {
+            "effect": "mna:mana_boost",
+            "strength": -1.41
+        }
+    ]
+}

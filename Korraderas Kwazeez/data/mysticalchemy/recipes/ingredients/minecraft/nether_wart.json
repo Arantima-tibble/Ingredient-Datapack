@@ -1,14 +1,26 @@
 {
-	"type": "mysticalchemy:potion_ingredient",
-	"item": "minecraft:nether_wart",
-	"effects": [
-		{
-			"effect": "minecraft:health_boost",
-			"strength": 0.4
-		},
-		{
-			"effect": "minecraft:nausea",
-			"strength": 0.5
-		}
-	]
+    "type": "mysticalchemy:potion_ingredient",
+    "item": "minecraft:nether_wart",
+    "effects": [
+        {
+            "effect": "minecraft:absorption",
+            "strength": 1.08
+        },
+        {
+            "effect": "minecraft:health_boost",
+            "strength": -0.68
+        },
+        {
+            "effect": "minecraft:poison",
+            "strength": 1.13
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "strength": -0.9
+        },
+        {
+            "effect": "minecraft:wither",
+            "strength": 0.68
+        }
+    ]
 }
